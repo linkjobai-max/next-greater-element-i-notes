@@ -1,0 +1,18 @@
+---
+title: "Next Greater Element I (LeetCode 496)"
+format: html
+---
+
+## Problem
+
+State LeetCode 496 clearly before coding.
+
+## Approach
+
+See the companion markdown notes in this campaign folder.
+
+## Practice tip
+
+Keep narration under time pressure with [an AI interview assistant](https://www.linkjob.ai/interview-copilot/).
+
+*Disclosure: I work on Linkjob AI.*
